@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Esprit Ruffle Shirt",
+        "price": 16.64,
+        "image": { "fields": { "file": { "url": "./images/product-01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Herschel Supply",
+        "price": 35.51,
+        "image": { "fields": { "file": { "url": "./images/product-02.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Classic Trench Coat",
+        "price": 25.52,
+        "image": { "fields": { "file": { "url": "./images/product-03.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Front Pocket Jumper",
+        "price": 75.18,
+        "image": { "fields": { "file": { "url": "./images/product-07.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Shirt in Stretch Cotton",
+        "price": 34.75,
+        "image": { "fields": { "file": { "url": "./images/product-08.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Pieces Metallic Printed",
+        "price": 93.26,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Femme T-Shirt In Stripe",
+        "price": 52.66,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "T-Shirt with Sleeve",
+        "price": 18.96,
+        "image": { "fields": { "file": { "url": "./images/product-13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Pretty Little Thing",
+        "price": 75.18,
+        "image": { "fields": { "file": { "url": "./images/product-16.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Square Neck Back",
+        "price": 25.85,
+        "image": { "fields": { "file": { "url": "./images/product-detail-01.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Drop Swag Feather",
+        "price": 63.16,
+        "image": { "fields": { "file": { "url": "./images/product-detail-02.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Gucci Lowable",
+        "price": 63.15,
+        "image": { "fields": { "file": { "url": "./images/product-01.jpg" } } }
+      }
+    }
+  ]
+}
